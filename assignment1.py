@@ -25,7 +25,8 @@ for num in num_list:
         print("totl value of count=" ,count)
 
 
-# i am checing the commit
+# i am checking the commit
+# spelling correction
 
 
 
